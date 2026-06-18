@@ -34,6 +34,13 @@ The dataset used in this project is Fitbit Fitness Tracker Data by Möbius on Ka
 
 **Dataset:** [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
+## Limitations
+
+- The dataset contains data from a relatively small sample of Fitbit users.
+- Data was collected between March and May 2016, so it's outdated.
+- Sleep data was not available for all participants or throughout the whole time period.
+- The dataset represents Fitbit users and may not fully reflect Bellabeat's target customer base.
+
 ## Files
 
 - `bellabeat-case-study.ipynb` – Complete analysis notebook
