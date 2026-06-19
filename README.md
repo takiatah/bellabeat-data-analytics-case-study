@@ -1,4 +1,5 @@
 # Bellabeat Case Study: Fitbit User Behavior Analysis
+
 Takia Tahmid
 
 This project analyzes Fitbit activity and sleep data using Python, SQL, and Tableau to identify trends in user behavior and develop data-driven recommendations for Bellabeat's marketing strategy. 
@@ -57,7 +58,9 @@ The dataset used in this project is Fitbit Fitness Tracker Data by Möbius on Ka
 - On weekends, activity is more consistent throughout the day and higher from 12PM and 2PM
 
 ## Dashboards
+
 **Tableau Dashboards:** [Fitbit Activity Analysis Dashboards](https://public.tableau.com/views/FitbitActivityAnalysisDashboards/ActivitybyHourandDayoftheWeekDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <img width="1552" height="732" alt="image" src="https://github.com/user-attachments/assets/9b010fc1-aadf-49b5-8a28-a7aa328b5c64" />
 <img width="1592" height="887" alt="image" src="https://github.com/user-attachments/assets/d18363b1-bd48-4e10-a797-36fbcb2b5fb1" />
 <img width="1640" height="730" alt="image" src="https://github.com/user-attachments/assets/1234221a-f130-4f60-9a18-0be96eb2c05f" />
