@@ -55,6 +55,12 @@ The dataset used in this project is Fitbit Fitness Tracker Data by Möbius on Ka
 - On weekdays, activity is affected by work schedule and most activity is from 5PM to 7PM
 - On weekends, activity is more consistent throughout the day and higher from 12PM and 2PM
 
+## Dashboards
+<img width="1552" height="732" alt="image" src="https://github.com/user-attachments/assets/9b010fc1-aadf-49b5-8a28-a7aa328b5c64" />
+<img width="1595" height="891" alt="image" src="https://github.com/user-attachments/assets/37b2c4c9-5d86-4e48-930c-191bb1d3fd8b" />
+<img width="1640" height="730" alt="image" src="https://github.com/user-attachments/assets/1234221a-f130-4f60-9a18-0be96eb2c05f" />
+
+
 ## My Recommendations
 1) The Bellabeat marketing team should focus marketing primarily on everyday women instead of more active athletes, since that is the majority of smart fitness device users. Marketing should emphasize a woman's well-being and being healthy over being active, and everyday activities like cleaning and going to work should be acknowledged to encourage women.
 
