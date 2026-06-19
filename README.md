@@ -1,6 +1,6 @@
 # Bellabeat Case Study: Fitbit User Behavior Analysis
 
-Takia Tahmid
+**Author:** Takia Tahmid
 
 This project analyzes Fitbit activity and sleep data using Python, SQL, and Tableau to identify trends in user behavior and develop data-driven recommendations for Bellabeat's marketing strategy. 
 
